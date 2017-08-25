@@ -65,3 +65,13 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+
+# Graphics & Assets
+*.png
+*.svg
+*.jpg
+/Assets.xcassets/
+/art.scnassets/
+
+# Testing Files - because we are ignoring testing for now
+/ARGonaughtsTests/
