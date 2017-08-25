@@ -74,5 +74,5 @@ fastlane/test_output
 **/art.scnassets/
 
 # Testing Files - because we are ignoring testing for now
-/ARGonaughtsTests/
-/ARGonaughtsUITests/
+**/ARGonaughtsTests/
+**/ARGonaughtsUITests/
