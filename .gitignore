@@ -70,8 +70,9 @@ fastlane/test_output
 *.png
 *.svg
 *.jpg
-/Assets.xcassets/
-/art.scnassets/
+**/Assets.xcassets/
+**/art.scnassets/
 
 # Testing Files - because we are ignoring testing for now
 /ARGonaughtsTests/
+/ARGonaughtsUITests/
